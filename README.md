@@ -28,4 +28,4 @@ pynput - For keyboard input monitoring.
 Developed by Rishi.
 
 ## Preview
-![Desktop Companion]Screenshot (1077).png
+Screenshot (1077).png
