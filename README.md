@@ -26,3 +26,6 @@ pynput - For keyboard input monitoring.
 
 👤 Credits
 Developed by Rishi.
+
+## Preview
+![Desktop Companion](Screenshot (1077).png)
