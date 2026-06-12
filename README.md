@@ -16,3 +16,13 @@ You need Python 3 installed on your machine. Install the required modules using 
 
 ```bash
 pip install PyQt5 pynput
+
+🛠️ Built With
+Python 3
+
+PyQt5 - For the rendering engine and window management.
+
+pynput - For keyboard input monitoring.
+
+👤 Credits
+Developed by Rishi.
